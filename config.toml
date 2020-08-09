@@ -26,10 +26,10 @@ paginate        = 6
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Admin"
-  authorAvatar = "img/ghost-icon.png"
+  authorAvatar = "uploads/userimage-linguistics.png"
   authorLocation = "Seoul, Republic of Korea"
   authorWebsite = ""
-  authorDescription = ""
+  authorDescription = "SNU Linguistics"
 
   pageNotFoundTitle = "404 - Page not found"
 
