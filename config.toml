@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "https://confident-davinci-35e1f8.netlify.app/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -25,7 +25,7 @@ paginate        = 6
   orgWebsite = ""
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
+  author = "Admin"
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Seoul, Republic of Korea"
   authorWebsite = ""
@@ -55,9 +55,9 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-name = "photos"
-url = "/categories/photo/"
-weight = 98
+  name = "photos"
+  url = "/categories/photo/"
+  weight = 98
 
 [[menu.main]]
   name = "SNU Ling"
