@@ -1,0 +1,65 @@
+baseurl         = "http://snuling.colloquium.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "SNU Linguistics Department Colloquium"
+  subtitle    = "주관: 서울대학교 언어학과"
+
+  cover       = "uploads/cover-lecture-room-modern.jpg"
+  description = "This is a page where information regarding colloquia held at SNU Ling. Dep. in Fall 2020, funded by the 10 x 10 project."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = ""
+
+  logo = "uploads/snuling_logo.png"
+  orgName = "EM"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Seoul, Republic of Korea"
+  authorWebsite = ""
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Colloquium"
+  url = "/tags/colloquium/"
+  weight = 100
+
+[[menu.main]]
+  name = "seminar"
+  url = "/categories/seminar/"
+  weight = 99
+
+[[menu.main]]
+name = "photos"
+url = "/categories/photo/"
+weight = 98
+
+[[menu.main]]
+  name = "SNU Ling"
+  url = "http://hosting01.snu.ac.kr/~linguist/"
+  weight = 95
