@@ -1,5 +1,5 @@
 ---
-title: "콜로퀴움 #1 (8/31 4PM): 정우진 (Institut Jean Nicod)"
+title: "콜로퀴움 1 (8/31 4PM): 정우진 (Institut Jean Nicod)"
 date: 2020-08-09T12:53:06+09:00
 draft: false
 tags: ['Colloquium']
