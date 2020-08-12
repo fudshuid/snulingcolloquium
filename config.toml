@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "SNU Linguistics Department Colloquium"
-  subtitle    = "주관: 서울대학교 언어학과"
+  subtitle    = "Colloquia held at SNU Linguistics"
 
   cover       = "uploads/cover-lecture-room-modern.jpg"
   description = "This is a page where information regarding colloquia held at SNU Ling. Dep. in Fall 2020, funded by the 10 x 10 project."
@@ -34,7 +34,7 @@ paginate        = 6
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/:slug/"
@@ -46,16 +46,16 @@ paginate        = 6
 
 [[menu.main]]
   name = "Colloquium"
-  url = "/tags/colloquium/"
+  url = "/categories/colloquium/"
   weight = 100
 
 [[menu.main]]
-  name = "seminar"
+  name = "Seminar"
   url = "/categories/seminar/"
   weight = 99
 
 [[menu.main]]
-  name = "photos"
+  name = "Photos"
   url = "/categories/photo/"
   weight = 98
 
