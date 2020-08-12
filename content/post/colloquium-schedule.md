@@ -1,6 +1,6 @@
 ---
 linktitle: "colloquium-schedule"
-title: "Scheudle for colloquia in Fall, 2020"
+title: "Schedule for colloquia in Fall, 2020"
 date: 2020-08-09T10:06:46+09:00
 draft: false
 categories: ['colloquium']
