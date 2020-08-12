@@ -7,17 +7,17 @@ image: "uploads/schedule.jpg"
 description: "This is the total schedule for colloquium"
 ---
 
-| 일자 | 시간 | 강연자 | 강연제목 | 온라인/오프라인 |
+| Date | Time | Speaker | Title | Lecture Type |
 | --- | --- | ---- | ------ | ----------- |
-| 8/13(목) | 10AM | Dr. Grissom | Job Talk | 온라인 |
-| 8/31(월) | 4PM | 정우진 (Institut Jean Nicod) | Linguistic Modality, Expected Utility, and Confirmation [**\[Link\]**]({{< ref "colloquium1.md" >}}) | 오프라인 |
-| 9/11(금) | 10AM | 김현섭 (서울대학교 철학과) | 갑질의 정의 | 오프라인 |
-| 9/18(금) | 10AM | John Beavers (Texas University) |  | 온라인 |
-| 9/21(월) | 10AM | 안수지 (UCLA/University of Ottawa) |  | 온라인 |
-| 10/16(금) | 9AM | Dorothy Ahn (Rutgers University) |  | 온라인 |
-| 10/23(금) | 9AM | Andy Wedel (University of Arizona) |  | 온라인 |
-| 10/30(금) |     | Michael Ashby (UCL, IPA 회장) |  | 온라인 |
-| 11/6(금) | 9AM | Shigeru Miyagawa (MIT) |  | 온라인 |
-| 11/13(금) | 10AM | 장하연 |  | 오프라인 |
-| 11/20(금) | 4:30PM | Ocke-Schwen Bohn (Aarhus University, J. Phon. 부편집장) |  | 온라인 |
-| 11/27(금) | 9AM | 김송희 (Medical College of Wisconsin) |  | 오프라인 |
+| 8/13(Thr.) | 10:00 | Dr. Grissom | Job Talk | Online |
+| 8/31(Mon.) | 16:00 | 정우진 (Institut Jean Nicod) | Linguistic Modality, Expected Utility, and Confirmation [**\[Link\]**]({{< ref "colloquium1.md" >}}) | Offline |
+| 9/11(Fri.) | 10:00 | 김현섭(Hyunseop Kim) (Dep. of Philosophy, SNU) | 갑질의 정의(The definition of Gap-jil) | Offline |
+| 9/18(Fri.) | 10:00 | John Beavers (Texas University) |  | Online |
+| 9/21(Mon.) | 10:00 | 안수지(Suzy Ahn) (UCLA/University of Ottawa) |  | Online |
+| 10/16(Fri.) | 9:00 | Dorothy Ahn (Rutgers University) |  | Online |
+| 10/16(Fri.) | 16:30 | Michael Ashby (UCL, IPA Chair) |  | Online |
+| 10/23(Fri.) | 9:00 | Andy Wedel (University of Arizona) |  | Online |
+| 11/6(Fri.) | 9:00 | Shigeru Miyagawa (MIT) |  | Online |
+| 11/13(Fri.) | 10:00 | 장하연(Hayeun Jang) (SNU) |  | Offline |
+| 11/20(Fri.) | 16:30 | Ocke-Schwen Bohn (Aarhus University, J. Phon. Editor) |  | Online |
+| 11/27(Fri.) | 9:00 | 김송희(Songhee Kim) (Medical College of Wisconsin) |  | Offline |
