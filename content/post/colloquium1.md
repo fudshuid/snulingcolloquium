@@ -1,4 +1,5 @@
 ---
+linktitle: "colloquium1"
 title: "Colloquium 1 (8/31 4PM): Woojin Chung (Institut Jean Nicod)"
 date: 2020-08-09T12:53:06+09:00
 draft: false
