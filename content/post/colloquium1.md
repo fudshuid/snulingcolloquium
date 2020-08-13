@@ -13,6 +13,6 @@ image: "uploads/book-image.jpg"
 
 ### Abstract:
 
-The first colloquium that will be held at Department of Linguistics, SNU will be "Linguistic Modality, Expected Utility, and Confirmation" by WooJin Chung.
+The first colloquium that will be held at Department of Linguistics, SNU will be "Linguistic Modality, Expected Utility, and Confirmation" by Woojin Chung.
 
 The speaker currently works at Institut Jean Nicod, École Normale Supérieure, France. He acquired his PhD at NYU.
