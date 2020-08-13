@@ -36,6 +36,11 @@ paginate        = 6
   #casper or caspertwo
   singleViewStyle = "casper"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [permalinks]
   post = "/:slug/"
 
