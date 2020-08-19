@@ -54,20 +54,20 @@ paginate        = 6
   url = "/categories/colloquium/"
   weight = 100
 
-[[menu.main]]
-  name = "Seminar"
-  url = "/categories/seminar/"
-  weight = 99
+#[[menu.main]]
+#  name = "Seminar"
+#  url = "/categories/seminar/"
+#  weight = 99
 
-[[menu.main]]
-  name = "Photos"
-  url = "/categories/photo/"
-  weight = 98
+#[[menu.main]]
+#  name = "Photos"
+#  url = "/categories/photo/"
+#  weight = 98
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 97
+#[[menu.main]]
+#  name = "Contact"
+#  url = "/contact/"
+#  weight = 97
 
 [[menu.main]]
   name = "SNU Ling"

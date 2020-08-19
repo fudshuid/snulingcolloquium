@@ -7,13 +7,23 @@ categories: ['colloquium']
 image: "uploads/book-image.jpg"
 description: Linguistic Modality, Expected Utility, and Confirmation by Woojin Chung
 ---
-***
-## Title: Linguistic Modality, Expected Utility, and Confirmation
-***
-### Poster:
 
-### Abstract:
+## Linguistic Modality, Expected Utility, and Confirmation
+***
 
+### Description: 
+<br/>
 The first colloquium that will be held at Department of Linguistics, SNU will be "Linguistic Modality, Expected Utility, and Confirmation" by Woojin Chung.
+<br/><br/>
+The speaker currently works at Institut Jean Nicod, Ecole Normale Supérieure, France. He acquired his PhD at NYU.
 
-The speaker currently works at Institut Jean Nicod, École Normale Supérieure, France. He acquired his PhD at NYU.
+![ ](/uploads/Woojin_Chung_image.jpeg#floatleft)
+
+### Poster:
+<br/>
+
+![ ](/uploads/poster_colloquium1.jpeg#floatleft)
+
+### Abstract: 
+<br/>
+We introduce an expected value-based theory of linguistic modality that makes reference to expected utility and likelihood-based confirmation measure for deontics and epistemics, respectively. We derive the modal semantics in an entirely transparent manner, as it is based on the compositional semantics of Korean modal expressions that are morphosyntactically decomposed into a conditional and an evaluative predicate. We show that our theory is not only theoretically advantageous but also has interesting empirical consequences: it suggests that people’s conception of modality facilitates rational decision making, but the very same mechanism is the source of irrationality in assessing subjective probability. 
