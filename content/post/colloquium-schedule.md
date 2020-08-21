@@ -12,10 +12,10 @@ description: "This is the total schedule for colloquium"
 | - | ---- | ---- | --------------- | ---- |
 | 1 | 8/13(Thr.) | 10:00 | Alvin Grissom II (Haverford College) <br/> &nbsp;&nbsp; Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary | Online |
 | 2 | 8/31(Mon.) | 16:00 | Woojin Chung (Institut Jean Nicod) <br/> &nbsp;&nbsp; Linguistic Modality, Expected Utility, and Confirmation [**\[Detail\]**]({{< ref "colloquium1.md" >}}) | Offline |
-| 3 | 9/11(Fri.) | 10:00 | Hyunseop Kim (SNU) <br/> &nbsp;&nbsp; 갑질의 정의(The definition of "Gap-jil") | Offline |
+| 3 | 9/11(Fri.) | 10:00 | Hyunseop Kim (SNU) <br/> &nbsp;&nbsp; ‘갑질’이란 무엇이며, 왜 그른가? 말뭉치 분석을 통한 도덕기반이론적 검토 | Offline |
 | 4 | 9/18(Fri.) | 10:00 | John Beavers (Texas University) | Online |
-| 5 | 9/21(Mon.) | 10:00 | Suzy Ahn (UCLA/University of Ottawa) | Online |
-| 6 | 10/16(Fri.) | 9:00 | Dorothy Ahn (Rutgers University) | Online |
+| 5 | 9/21(Mon.) | 10:00 | Suzy Ahn (UCLA/University of Ottawa) <br/> &nbsp;&nbsp; TBA | Online |
+| 6 | 10/16(Fri.) | 9:00 | Dorothy Ahn (Rutgers University) <br/> &nbsp;&nbsp; Extended D-type Theory: A unified analysis of anaphoric expressions | Online |
 | 7 | 10/16(Fri.) | 16:30 | Michael Ashby (UCL) <br/> &nbsp;&nbsp; The History and Principles of IPA | Online |
 | 8 | 10/23(Fri.) | 9:00 | Andy Wedel (University of Arizona) | Online |
 | 9 | 11/6(Fri.) | 9:00 | Shigeru Miyagawa (MIT) | Online |
