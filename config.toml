@@ -40,9 +40,14 @@ paginate        = 6
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      hardWraps = true
+      xHTML = true
+      plainIDAnchors = true
+      hrefTargetBlank = true
 
 [permalinks]
   post = "/:slug/"
+  dd = "/ss"
 
 [[menu.main]]
   name = "main"
@@ -51,22 +56,22 @@ paginate        = 6
 
 [[menu.main]]
   name = "Colloquium"
-  url = "/categories/colloquium/"
+  url = "/categories/colloquium"
   weight = 100
 
-#[[menu.main]]
-#  name = "Seminar"
-#  url = "/categories/seminar/"
-#  weight = 99
+[[menu.main]]
+  name = "Seminar"
+  url = "/categories/seminar"
+  weight = 99
 
 #[[menu.main]]
 #  name = "Photos"
-#  url = "/categories/photo/"
+#  url = "/categories/photo"
 #  weight = 98
 
 #[[menu.main]]
 #  name = "Contact"
-#  url = "/contact/"
+#  url = "/contact"
 #  weight = 97
 
 [[menu.main]]

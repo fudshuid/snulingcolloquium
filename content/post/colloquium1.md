@@ -1,31 +1,25 @@
 ---
-linktitle: "colloquium1"
-title: "Colloquium 1 (8/31 4PM): Woojin Chung (Institut Jean Nicod)"
-date: 2020-08-09T12:53:06+09:00
+slug: "colloquium1"
+title: "Colloquium 1 (13th August, 10AM): Alvin Grissom II (Haverford College)"
+date: 2020-08-06T12:53:06+09:00
 draft: false
 categories: ['colloquium']
-image: "uploads/book-image.jpg"
-description: Linguistic Modality, Expected Utility, and Confirmation by Woojin Chung
+image: "uploads/colloquium_cover.jpg"
+description: "Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary by Alvin Grissom II"
 ---
 
-## Linguistic Modality, Expected Utility, and Confirmation
+## Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary
 ***
 
-### Description: 
-<br/>
-The first colloquium that will be held at Department of Linguistics, SNU will be "Linguistic Modality, Expected Utility, and Confirmation" by Woojin Chung.
-<br/><br/>
-The speaker currently works at Institut Jean Nicod, Ecole Normale Supérieure, France. He acquired his PhD at NYU.
-<br/><br/>
+The first colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary" by Alvin Grissom II. 
 
-![ ](/uploads/Woojin_Chung_image.jpeg#floatleft)
-
-### Abstract: 
+### Speaker: Alvin Grissom II
 <br/>
-We introduce an expected value-based theory of linguistic modality that makes reference to expected utility and likelihood-based confirmation measure for deontics and epistemics, respectively. We derive the modal semantics in an entirely transparent manner, as it is based on the compositional semantics of Korean modal expressions that are morphosyntactically decomposed into a conditional and an evaluative predicate. We show that our theory is not only theoretically advantageous but also has interesting empirical consequences: it suggests that people’s conception of modality facilitates rational decision making, but the very same mechanism is the source of irrationality in assessing subjective probability. 
+The speaker currently works as an assistant professor at Haverford College, USA. He acquired his PhD in Computer Science on 2017 at University of Colorado Boulder.
 <br/><br/>
 
-### Poster:
-<br/>
+![ ](/uploads/Alvin_Grissom_II_image.jpg#floatleft)
 
-![ ](/uploads/poster_colloquium1.jpeg#floatleft)
+
+### ZOOM Link:
+https://snu-ac-kr.zoom.us/j/99009311288? (Expired)
