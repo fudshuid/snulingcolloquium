@@ -1,7 +1,7 @@
 ---
 slug: "colloquium2"
 title: "Colloquium 2 (31st August, 4PM): Woojin Chung (Institut Jean Nicod)"
-date: 2020-08-09T12:53:06+09:00
+date: 2020-08-17T12:53:06+09:00
 draft: false
 categories: ['colloquium']
 image: "uploads/colloquium_cover.jpg"
@@ -26,7 +26,7 @@ We introduce an expected value-based theory of linguistic modality that makes re
 <br/><br/>
 
 ### Slides:
-[Link to the presentation file](/files/chung_snu_colloquium_2020.pdf)
+[Link to the presentation file](/materials/chung_snu_colloquium_2020.pdf)
 
 ### ZOOM Link:
 https://snu-ac-kr.zoom.us/j/98726231712
@@ -34,4 +34,4 @@ https://snu-ac-kr.zoom.us/j/98726231712
 ### Poster:
 <br/>
 
-![ ](/uploads/poster_colloquium1.jpg#floatleft)
+![ ](/posters/poster_colloquium2.jpg#floatleft)

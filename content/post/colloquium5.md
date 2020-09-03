@@ -1,7 +1,7 @@
 ---
 slug: "colloquium5"
 title: "Colloquium 5 (21st September, 10AM): Suzy Ahn (UCLA/University of Ottawa)"
-date: 2020-08-28T23:15:57+09:00
+date: 2020-09-01T23:15:57+09:00
 draft: false
 categories: ['colloquium']
 image: "uploads/colloquium_cover.jpg"
