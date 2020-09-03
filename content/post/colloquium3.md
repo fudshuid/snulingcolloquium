@@ -11,7 +11,7 @@ description: "Moral Foundations Analysis of Korean words using Word2Vec: the Cas
 ## Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil”
 ***
 
-The third colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil” " by Hyunseop Kim. 
+The third colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Moral Foundations Analysis of Korean words using Word2Vec: the Case of Gapjil" by Hyunseop Kim. 
 
 ### Speaker: Hyunseop Kim
 <br/>
