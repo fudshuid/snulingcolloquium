@@ -11,7 +11,7 @@
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
     <br>
     <br>
-    <label for="email">Email Adress</label>
+    <label for="email">Email Address</label>
     <br>
     <input type="text" id="email" name="email" placeholder="email@example.com">
     <br>
