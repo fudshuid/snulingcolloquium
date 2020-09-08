@@ -27,7 +27,4 @@ Many languages make voicing contrasts in obstruents, but the phonetic characteri
 <br/><br/>
 
 ### ZOOM Link:
-In preparation
-
-### Poster:
-In preparation
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.

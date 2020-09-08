@@ -1,4 +1,4 @@
-baseurl         = "https://snuling.com"
+baseurl         = "https://snuling.com/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""

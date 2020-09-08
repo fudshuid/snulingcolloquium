@@ -30,9 +30,4 @@ We introduce an expected value-based theory of linguistic modality that makes re
 [Link to the presentation file](/materials/chung_snu_colloquium_2020.pdf)
 
 ### ZOOM Link:
-https://snu-ac-kr.zoom.us/j/98726231712 (Expired)
-
-### Poster:
-<br/>
-
-![ ](/posters/poster_colloquium2.jpg#floatleft)
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.

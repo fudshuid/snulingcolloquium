@@ -27,9 +27,4 @@ The speaker currently works at Seoul National Universtiy, Seoul. He acquired his
 <br/><br/>
 
 ### ZOOM Link:
-https://snu-ac-kr.zoom.us/j/94712259471
-
-### Poster:
-<br/>
-
-![ ](/posters/poster_colloquium3.jpg#floatleft)
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.

@@ -23,4 +23,5 @@ The speaker currently works as an assistant professor at Haverford College, USA.
 
 
 ### ZOOM Link:
-https://snu-ac-kr.zoom.us/j/99009311288? (Expired)
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
+
