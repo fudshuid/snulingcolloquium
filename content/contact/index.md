@@ -1,6 +1,5 @@
 ---
 ---
-
 <form method="post" name="Contact" netlify>
     <label for="fname">First Name</label>
     <br>
@@ -19,7 +18,7 @@
     <br>
     <label for="message">Message</label>
     <br>
-    <textarea id="Message" name="message" placeholder="Leave any comments" style="height:200px"></textarea>
+    <textarea id="Message" name="message" placeholder="Leave any message" style="height:200px"></textarea>
     <br>
     <br>
     <input type="submit" value="Submit" style="">

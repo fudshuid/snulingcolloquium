@@ -3,7 +3,8 @@ slug: "colloquium2"
 title: "Colloquium 2 (31st August, 4PM): Woojin Chung (Institut Jean Nicod)"
 date: 2020-08-17T12:53:06+09:00
 draft: false
-categories: ['colloquium']
+categories: ['Colloquium']
+tags: ['Semantics']
 image: "uploads/colloquium_cover.jpg"
 description: "Linguistic Modality, Expected Utility, and Confirmation by Woojin Chung"
 ---
@@ -13,12 +14,12 @@ description: "Linguistic Modality, Expected Utility, and Confirmation by Woojin 
 
 The second colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Linguistic Modality, Expected Utility, and Confirmation" by Woojin Chung. 
 
-### Speaker: Woojin Chung
+### Speaker: <a class=intro-link href=https://sites.google.com/a/nyu.edu/woojin-chung>Woojin Chung</a>
 <br/>
-The speaker currently works at Institut Jean Nicod, Ecole Normale Supérieure, France. He acquired his PhD in Linguistics on 2019 at NYU.
+The speaker currently works at Institut Jean Nicod, Ecole Normale Supérieure, France. He acquired his PhD in Linguistics from NYU in 2019.
 <br/><br/>
 
-![ ](/uploads/Woojin_Chung_image.jpg#floatleft)
+![ ](/profiles/Woojin_Chung_image.jpg#floatleft)
 
 ### Abstract: 
 <br/>
@@ -29,7 +30,7 @@ We introduce an expected value-based theory of linguistic modality that makes re
 [Link to the presentation file](/materials/chung_snu_colloquium_2020.pdf)
 
 ### ZOOM Link:
-https://snu-ac-kr.zoom.us/j/98726231712
+https://snu-ac-kr.zoom.us/j/98726231712 (Expired)
 
 ### Poster:
 <br/>

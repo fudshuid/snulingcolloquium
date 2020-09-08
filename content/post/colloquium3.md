@@ -3,7 +3,8 @@ slug: "colloquium3"
 title: "Colloquium 3 (11th September, 10AM): Hyunseop Kim (SNU)"
 date: 2020-08-28T12:53:06+09:00
 draft: false
-categories: ['colloquium']
+categories: ['Colloquium']
+tags: ['NLP', 'Appliedling']
 image: "uploads/colloquium_cover.jpg"
 description: "Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil” by Hyunseop Kim"
 ---
@@ -13,12 +14,12 @@ description: "Moral Foundations Analysis of Korean words using Word2Vec: the Cas
 
 The third colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Moral Foundations Analysis of Korean words using Word2Vec: the Case of Gapjil" by Hyunseop Kim. 
 
-### Speaker: Hyunseop Kim
+### Speaker: <a class=intro-link href="http://philosophy.snu.ac.kr/board/html/menu2/sub02_1_view.html?gubun=E&idx=60">Hyunseop Kim</a>
 <br/>
-The speaker currently works at Seoul National Universtiy, Seoul. He acquired his PhD in Philosophy on 2012 at NYU.
+The speaker currently works at Seoul National Universtiy, Seoul. He acquired his PhD in Philosophy from NYU in 2012.
 <br/><br/>
 
-![ ](/uploads/Hyunseop_Kim_image.jpg#floatleft)
+![ ](/profiles/Hyunseop_Kim_image.jpg#floatleft)
 
 ### Abstract: 
 <br/>

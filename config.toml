@@ -55,6 +55,11 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
+  name = "Schedule"
+  url = "/categories/schedule"
+  weight = 150
+
+[[menu.main]]
   name = "Colloquium"
   url = "/categories/colloquium"
   weight = 100
@@ -69,10 +74,10 @@ paginate        = 6
 #  url = "/categories/photo"
 #  weight = 98
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "/contact"
-#  weight = 97
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 97
 
 [[menu.main]]
   name = "SNU Ling"

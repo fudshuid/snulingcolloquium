@@ -3,7 +3,8 @@ slug: "seminar1"
 title: "Seminar 1 (1st September, 4PM): Woojin Chung & Nadine Bade (Institut Jean Nicod)"
 date: 2020-08-28T01:34:57+09:00
 draft: false
-categories: ['seminar']
+categories: ['Seminar']
+tags: ['Expling', 'Pragmatics']
 image: "uploads/seminar_cover.jpg"
 description: Seminar by Woojin Chung & Nadine Bade
 ---
@@ -13,18 +14,18 @@ description: Seminar by Woojin Chung & Nadine Bade
 
 The first seminar held at the Department of Linguistics, SNU in Fall 2020 is "The role of language in reasoning and how reasoning informs research on language" by Woojin Chung & Nadine Bade. 
 
-### Lecturer: Woojin Chung, Nadine Bade
+### Lecturer: <a class=intro-link href=https://sites.google.com/a/nyu.edu/woojin-chung>Woojin Chung</a>, <a class=intro-link href=http://www.nadinebade.de/>Nadine Bade</a>
 <br/>
 
 The lecturers currently work at Institut Jean Nicod, Ecole Normale Supérieure, France. 
 
-Woojin Chung acquired his PhD in Linguistics on 2019 at NYU.
+Woojin Chung acquired his PhD in Linguistics from NYU in 2019.
 
-![ ](/uploads/Woojin_Chung_image.jpg#floatleft)
+![ ](/profiles/Woojin_Chung_image.jpg#floatleft)
 
-Nadine Bade acquired her PhD on 2016 at University of Tübingen.
+Nadine Bade acquired her PhD from University of Tübingen in 2016.
 
-![ ](/uploads/Nadine_Bade_image.jpg#floatleft)
+![ ](/profiles/Nadine_Bade_image.jpg#floatleft)
 
 ### Abstract: 
 <br/>

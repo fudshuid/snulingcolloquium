@@ -3,7 +3,8 @@ slug: "colloquium1"
 title: "Colloquium 1 (13th August, 10AM): Alvin Grissom II (Haverford College)"
 date: 2020-08-06T12:53:06+09:00
 draft: false
-categories: ['colloquium']
+categories: ['Colloquium']
+tags: ['NLP', 'socioling']
 image: "uploads/colloquium_cover.jpg"
 description: "Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary by Alvin Grissom II"
 ---
@@ -13,12 +14,12 @@ description: "Introspection: Examining Pathologies in Neural Networks and Racial
 
 The first colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Introspection: Examining Pathologies in Neural Networks and Racialized Language in Sports Commentary" by Alvin Grissom II. 
 
-### Speaker: Alvin Grissom II
+### Speaker: <a class=intro-link href=http://users.umiacs.umd.edu/~alvin/>Alvin Grissom II</a> 
 <br/>
-The speaker currently works as an assistant professor at Haverford College, USA. He acquired his PhD in Computer Science on 2017 at University of Colorado Boulder.
+The speaker currently works as an assistant professor at Haverford College, USA. He acquired his PhD in Computer Science from University of Colorado Boulder in 2017.
 <br/><br/>
 
-![ ](/uploads/Alvin_Grissom_II_image.jpg#floatleft)
+![ ](/profiles/Alvin_Grissom_II_image.jpg#floatleft)
 
 
 ### ZOOM Link:
