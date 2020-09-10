@@ -1,11 +1,11 @@
 ---
 slug: "colloquium-schedule"
 title: "Schedule for colloquia in Fall, 2020"
-date: 2020-08-03T10:06:46+09:00
+date: 2020-08-01T10:06:46+09:00
 draft: false
 categories: ['Colloquium', 'Schedule']
 image: "uploads/schedule.jpg"
-description: "This is the total schedule for colloquium"
+description: "This is the total schedule for colloquia"
 ---
 *** 
 | # | Date | Time | Speaker & Title | Type |

@@ -1,12 +1,12 @@
 ---
 slug: "seminar1"
 title: "Seminar 1 (1st September, 4PM): Woojin Chung & Nadine Bade (Institut Jean Nicod)"
-date: 2020-08-28T01:34:57+09:00
+date: 2020-08-18T01:34:57+09:00
 draft: false
 categories: ['Seminar']
 tags: ['Expling', 'Pragmatics']
 image: "uploads/seminar_cover.jpg"
-description: Seminar by Woojin Chung & Nadine Bade
+description: "The role of language in reasoning and how reasoning informs research on language by Woojin Chung & Nadine Bade"
 ---
 
 ## The role of language in reasoning and how reasoning informs research on language

@@ -6,7 +6,7 @@ draft: false
 categories: ['Colloquium']
 tags: ['NLP', 'Appliedling']
 image: "uploads/colloquium_cover.jpg"
-description: "Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil” by Hyunseop Kim"
+description: "Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil” by Hyunseop Kim (in Korean)"
 ---
 
 ## Moral Foundations Analysis of Korean words using Word2Vec: the Case of “Gapjil”
