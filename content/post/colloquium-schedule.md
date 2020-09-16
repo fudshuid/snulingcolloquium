@@ -15,10 +15,10 @@ description: "This is the total schedule for colloquia"
 | 3 | 9/11(Fri.) | 10:00 | Hyunseop Kim (SNU) <br/> &nbsp;&nbsp; ‘갑질’이란 무엇이며, 왜 그른가? 말뭉치 분석을 통한 도덕기반이론적 검토 (in Korean) [**\[Detail\]**]({{< ref "colloquium3.md" >}}) | Online |
 | 4 | 9/18(Fri.) | 10:00 | John Beavers (University of Texas, Austin) <br/> &nbsp;&nbsp; Event Structures and The Semantic Typology of Verbal Roots Across Languages [**\[Detail\]**]({{< ref "colloquium4.md" >}}) | Online |
 | 5 | 9/21(Mon.) | 10:00 | Suzy Ahn (UCLA/University of Ottawa) <br/> &nbsp;&nbsp; What the tongue tells us about voicing contrasts [**\[Detail\]**]({{< ref "colloquium5.md" >}}) | Online |
-| 6 | 10/16(Fri.) | 9:00 | Dorothy Ahn (Rutgers University) <br/> &nbsp;&nbsp; Extended D-type Theory: A unified analysis of anaphoric expressions | Online |
-| 7 | 10/16(Fri.) | 16:30 | Michael Ashby (UCL) <br/> &nbsp;&nbsp; The History and Principles of IPA | Online |
+| 6 | 10/16(Fri.) | 9:30 | Dorothy Ahn (Rutgers University) <br/> &nbsp;&nbsp; A unified analysis of anaphoric expressions in spoken and signed languages [**\[Detail\]**]({{< ref "colloquium6.md" >}}) | Online |
+| 7 | 10/16(Fri.) | 16:30 | Michael Ashby (UCL) <br/> &nbsp;&nbsp; The History and Principles of IPA [**\[Detail\]**]({{< ref "colloquium7.md" >}}) | Online |
 | 8 | 10/23(Fri.) | 9:00 | Andy Wedel (University of Arizona) | Online |
-| 9 | 11/6(Fri.) | 9:00 | Shigeru Miyagawa (MIT) | Online |
+| 9 | 11/6(Fri.) | 9:30 | Shigeru Miyagawa (MIT) | Online |
 | 10 | 11/13(Fri.) | 10:00 | Hayeun Jang (SNU) <br/> &nbsp;&nbsp; Articulatory Knowledge in Phonological Computation | Offline |
 | 11 | 11/20(Fri.) | 16:30 | Ocke-Schwen Bohn (Aarhus University) | Online |
 | 12 | 11/27(Fri.) | 9:00 | Songhee Kim (Medical College of Wisconsin) | Offline |

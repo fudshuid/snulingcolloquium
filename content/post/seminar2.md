@@ -16,7 +16,7 @@ The second seminar held at the Department of Linguistics, SNU in Fall 2020 is a 
 
 ### Lecturer: <a class=intro-link href=https://sites.google.com/view/suzyahn>Suzy Ahn</a>
 <br/>
-The speaker currently works at UCLA, USA and moving into University of Ottawa, Canada. She acquired her PhD in Linguistics from NYU in 2018.
+The lecturer currently works at UCLA, USA and moving into University of Ottawa, Canada. She acquired her PhD in Linguistics from NYU in 2018.
 <br/><br/>
 
 ![ ](/profiles/Suzy_Ahn_image.jpg#floatleft)

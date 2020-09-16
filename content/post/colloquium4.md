@@ -28,5 +28,10 @@ The central question in the study of verbal meaning are what the basic component
 In this talk I argue against semantic bifurcation in verbal meanings, focusing on the presence or absence of entailments of change — an uncontroversially templatic entailment — in two classes of roots: those that in English underlie Levin's (1993) deadjectival change-of-state verbs ("red" roots) and the latter her non-deadjectival change-of-state verbs ("crack" roots). A broad-scale typological study of the morphological properties of roots with these meanings reveals that "red" roots tend to have unmarked stative forms and marked verbal forms, while "crack" roots have the opposite patterns. Semantic studies of several languages confirm that the states described by "crack"-type roots are not dissociable from an inference of change-of-state while the states described by "red" type roots are. I thus suggest that "crack"-type roots entail change independent of the template, contra bifurcation, and that this figures into the morphological properties of the adjectival and verbal forms of these roots. This blunts the strong syntax/semantics correlations predicted by bifurcation, though I show that event structural approaches still make predictions about possible and impossible verbs even giving up on this assumption. I conclude by outlining a broader typology of the event structural meanings that may be found in verbal roots, and discuss the functional motivations that explain why an otherwise reasonable principle of lexical organization like bifurcation may see exceptions of the sort discussed here.
 <br/><br/>
 
+### Slides:
+[Link to the handout file](/materials/colloquium4_material.pdf)
+
+* This lecture will be performed based on the handout(without slide presentation). Make sure the handout is ready before partipating in this event.
+
 ### ZOOM Link:
 Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
