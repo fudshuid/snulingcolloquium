@@ -9,10 +9,10 @@ image: "uploads/seminar_cover.jpg"
 description: "Sounds of the IPA by Michael Ashby"
 ---
 
-## Sounds of the IPA 1, 2, 3
+## Sounds of the IPA
 ***
 
-The fourth seminar held at the Department of Linguistics, SNU in Fall 2020 is "Sounds of the IPA 1, 2, 3" by Michael Ashby. 
+The fourth seminar held at the Department of Linguistics, SNU in Fall 2020 is "Sounds of the IPA by Michael Ashby. 
 
 ### Lecturer: <a class=intro-link href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MGASH64">Michael Ashby</a>
 <br/>
@@ -23,5 +23,9 @@ The lecturer currently works at University College of London, UK. He is currentl
 
 ### Description: 
 <br/>
-TBA
+
+- 10/20 (Tue.): IPA consonants
+- 10/23 (Fri.): IPA vowels
+- 10/27 (Tue.): The IPA and the sounds of the world's languages
+
 <br/><br/>

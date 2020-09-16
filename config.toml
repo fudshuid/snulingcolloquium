@@ -10,7 +10,7 @@ paginate        = 6
   subtitle    = "Scholarly events held at SNU Linguistics (Funded by: SNU 10×10 Project)"
 
   cover       = "uploads/cover-lecture-room-modern.jpg"
-  description = "This is a page where information regarding colloquia held at SNU Ling. Dep. in Fall 2020, funded by the 10 x 10 project."
+  description = "Scholarly events held at SNU Ling. Dep. in Fall 2020, funded by the 10 x 10 project."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []

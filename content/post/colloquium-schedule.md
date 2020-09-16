@@ -16,7 +16,7 @@ description: "This is the total schedule for colloquia"
 | 4 | 9/18(Fri.) | 10:00 | John Beavers (University of Texas, Austin) <br/> &nbsp;&nbsp; Event Structures and The Semantic Typology of Verbal Roots Across Languages [**\[Detail\]**]({{< ref "colloquium4.md" >}}) | Online |
 | 5 | 9/21(Mon.) | 10:00 | Suzy Ahn (UCLA/University of Ottawa) <br/> &nbsp;&nbsp; What the tongue tells us about voicing contrasts [**\[Detail\]**]({{< ref "colloquium5.md" >}}) | Online |
 | 6 | 10/16(Fri.) | 9:30 | Dorothy Ahn (Rutgers University) <br/> &nbsp;&nbsp; A unified analysis of anaphoric expressions in spoken and signed languages [**\[Detail\]**]({{< ref "colloquium6.md" >}}) | Online |
-| 7 | 10/16(Fri.) | 16:30 | Michael Ashby (UCL) <br/> &nbsp;&nbsp; The History and Principles of IPA [**\[Detail\]**]({{< ref "colloquium7.md" >}}) | Online |
+| 7 | 10/16(Fri.) | 16:30 | Michael Ashby (UCL) <br/> &nbsp;&nbsp; The History and Principles of the IPA [**\[Detail\]**]({{< ref "colloquium7.md" >}}) | Online |
 | 8 | 10/23(Fri.) | 9:00 | Andy Wedel (University of Arizona) | Online |
 | 9 | 11/6(Fri.) | 9:30 | Shigeru Miyagawa (MIT) | Online |
 | 10 | 11/13(Fri.) | 10:00 | Hayeun Jang (SNU) <br/> &nbsp;&nbsp; Articulatory Knowledge in Phonological Computation | Offline |

@@ -6,13 +6,13 @@ draft: false
 categories: ['Colloquium']
 tags: ['Phonetics']
 image: "uploads/colloquium_cover.jpg"
-description: "The History and Principles of IPA by Michael Ashby"
+description: "The History and Principles of the IPA by Michael Ashby"
 ---
 
-## The History and Principles of IPA
+## The History and Principles of the IPA
 ***
 
-The seventh colloquium held at the Department of Linguistics, SNU in Fall 2020 is "The History and Principles of IPA" by Michael Ashby. 
+The seventh colloquium held at the Department of Linguistics, SNU in Fall 2020 is "The History and Principles of the IPA" by Michael Ashby. 
 
 ### Speaker: <a class=intro-link href="https://iris.ucl.ac.uk/iris/browse/profile?upi=MGASH64">Michael Ashby</a>
 <br/>
