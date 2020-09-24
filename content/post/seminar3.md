@@ -29,3 +29,6 @@ In "The Roots of Verbal Meaning" we explore what conditions, if any, exist on ro
 <br><br/>
 In this talk I recap and expand on some of these findings, focusing primarily on the question of bifurcation. I first address the empirical observations and requisite methodological tools needed to argue against this hypothesis, focusing on change-of-state verbs and ditransitive verbs of caused possession in English. I also explore the kind of compositional approach to event structures that can handle roots with complex, templatic meanings. I then present newer work that explores similar verb classes in Kinyarwanda, a Bantu language spoken in Rwanda, and show how the same fundamental problems for bifurcation can be probed for in another language. Particular attention will be paid to verbs of caused possession in Kinyarwanda, which are mostly formed by productive applicativization processes that occur across a much wider set of verb classes. The resulting paradigms of applicativized verb meanings are more complex in English, showing significantly more types of root classes, yet ultimately again constitute a fundamental counterexample to the Bifurcation Thesis.
 <br/><br/>
+
+### Slides:
+[Link to the handout file](/materials/seminar3_material.pdf)
