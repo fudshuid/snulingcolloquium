@@ -26,7 +26,9 @@ The speaker currently works at University College of London, UK. He is current p
 ### Abstract:
 
 <br/>
-TBA
+This talk will explain the origin and purpose of the IPA, and the extent of its current adoption. We will illustrate the principle of providing a separate symbol for every sound used distinctively in any language, and the way in which new symbols and sounds are added.
+We will examine critically the framework of phonetic classification incorporated in the IPA, and its underlying theoretical assumptions.
+Finally we consider the other ‘IPA’ — the International Phonetic Association, established in 1886 — and consider its role in developing and maintaining the alphabet.
 <br/><br/>
 
 ### ZOOM Link:

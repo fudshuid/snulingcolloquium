@@ -26,7 +26,7 @@ The speaker currently works at Rutgers University, USA. She acquired her PhD in 
 ### Abstract:
 
 <br/>
-TBA
+Expressions such as pronouns, definite descriptions, and demonstratives can all refer to a familiar entity in a discourse, though they differ in relative distributions and possible interpretations. While the interaction among these expressions are evident from language production and processing data, they are often assumed to be separate semantic elements in the formal literature, making it difficult to derive such an interaction from their underlying denotations. In this talk, I propose a unified semantic account of these anaphoric expressions, where they share the same underlying semantic structure and only differ in the amount of restrictions that they carry. I discuss the main theoretical and empirical motivations for such an account, focusing on a phenomenon in bare argument languages where the presence of simplex pronouns block the use of bare nouns in anaphoric contexts. I show that the proposed analysis captures the gradient patterns we see in language use while making systematic predictions for processing penalties, competition, and variation. I also show that the theory has implications on the semantic analysis of pointing that is used to refer to entities in both spoken and signed languages.
 <br/><br/>
 
 ### ZOOM Link:
