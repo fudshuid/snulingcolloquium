@@ -1,7 +1,7 @@
 ---
 slug: "colloquium8"
 title: "Colloquium 8 (23th October, 9AM): Andy Wedel (University of Arizona)"
-date: 2020-09-29T23:15:57+09:00
+date: 2020-10-09T23:15:57+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Language Change", "Phonology", "Psycholing"]

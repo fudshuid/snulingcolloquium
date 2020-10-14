@@ -1,7 +1,7 @@
 ---
 slug: "seminar4"
 title: "Seminar 4 (20th, 23th & 27th October, 5PM): Michael Ashby (UCL)"
-date: 2020-09-16T01:34:57+09:00
+date: 2020-10-06T01:34:57+09:00
 draft: false
 categories: ["Seminar"]
 tags: ["Phonetics"]

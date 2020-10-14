@@ -1,7 +1,7 @@
 ---
 slug: "seminar5"
-title: "Seminar 5 (11th, 13th & 18th November, 5PM): Ocke-Schwen Bohn (Aarhus Univeristy)"
-date: 2020-09-30T01:34:57+09:00
+title: "Seminar 5 (11th, 13th & 18th November, 6PM): Ocke-Schwen Bohn (Aarhus Univeristy)"
+date: 2020-10-14T01:34:57+09:00
 draft: false
 categories: ["Seminar"]
 tags: ["SLA", "Phonetics"]

@@ -1,6 +1,6 @@
 ---
 slug: "colloquium7"
-title: "Colloquium 7 (16th October, 4:30PM): Michael Ashby (UCL)"
+title: "Colloquium 7 (16th October, 5:00PM): Michael Ashby (UCL)"
 date: 2020-09-15T23:15:57+09:00
 draft: false
 categories: ["Colloquium"]
