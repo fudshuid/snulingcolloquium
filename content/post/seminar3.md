@@ -1,7 +1,7 @@
 ---
 slug: "seminar3"
 title: "Seminar 3 (25th September, 10AM): John Beavers (University of Texas, Austin)"
-date: 2020-09-10T01:34:57+09:00
+date: 2020-09-11T01:34:57+09:00
 draft: false
 categories: ['Seminar']
 tags: ['Semantics', 'Typology']

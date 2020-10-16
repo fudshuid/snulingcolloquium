@@ -1,7 +1,7 @@
 ---
 slug: "colloquium6"
 title: "Colloquium 6 (16th October, 9:30AM): Dorothy Ahn (Rutgers University)"
-date: 2020-09-15T23:15:57+09:00
+date: 2020-10-02T23:15:57+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Syntax", "Typology", "Sign Language"]
