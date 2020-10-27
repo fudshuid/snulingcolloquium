@@ -1,7 +1,7 @@
 ---
 slug: "colloquium11"
-title: "Colloquium 11 (20th November, 6:00PM): Ocke-Schwen Bohn (Aarhus University)"
-date: 2020-10-19T05:00:00+09:00
+title: "Colloquium 11 (20th November, 6PM): Ocke-Schwen Bohn (Aarhus University)"
+date: 2020-10-27T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["SLA", "Phonetics"]
