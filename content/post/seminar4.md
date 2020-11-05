@@ -31,12 +31,18 @@ The lecturer currently works at University College of London, UK. He is currentl
 
 > This talk will be concerned with a practical approach to the classification of consonant sounds – as explained, for example, in Chapters 3 & 4 of Ashby & Maidment (2005) – and compare this critically with the framework incorporated in the IPA Chart. We will also consider how the IPA framework has been modified by those writing about the sound systems of particular languages.
 
+Link to the presentation files [**\[pptx\]**](/materials/Ashby-SNU-2020/Lecture-2/Lecture-2.pptx) [**\[docx\]**]("/materials/Ashby-SNU-2020/Lecture-2/Lecture-2.docx")
+
 2. 10/23 (Fri.): IPA vowels
 
 > This talk will consider the basic principles of vowel classification – as explained, for example, in Chapter 5 of Ashby & Maidment (2005) – and give an account of the Cardinal Vowel system and its history. We will examine how those fundamental concepts are incorporated into the IPA and applied to the analysis of particular vowel systems.
 
+Link to the presentation files [**\[pptx\]**](/materials/Ashby-SNU-2020/Lecture-3/Lecture-3.pptx) [**\[doc\]**]("/materials/Ashby-SNU-2020/Lecture-3/Lecture-3.doc")
+
 3. 10/27 (Tue.): The IPA and the sounds of the world's languages
 
 > In this talk we will look at some of the less common sounds of the world's languages, particularly those made with non-pulmonic airstream mechanisms. We will consider the increasing importance of the IPA in language documentation and the construction of cross-language phonetic databases.
+
+Link to the presentation files [**\[pptx\]**](/materials/Ashby-SNU-2020/Lecture-4/Lecture-4.pptx) [**\[doc\]**]("/materials/Ashby-SNU-2020/Lecture-4/Lecture-4.doc")
 
 <br/><br/>

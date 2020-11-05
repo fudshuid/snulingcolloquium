@@ -31,6 +31,10 @@ We will examine critically the framework of phonetic classification incorporated
 Finally we consider the other ‘IPA’ — the International Phonetic Association, established in 1886 — and consider its role in developing and maintaining the alphabet.
 <br/><br/>
 
+### Slides:
+
+Link to the presentation files [**\[pptx\]**](/materials/Ashby-SNU-2020/Lecture-1/Lecture-1.pptx) [**\[docx\]**]("/materials/Ashby-SNU-2020/Lecture-1/Lecture-1.docx")
+
 ### ZOOM Link:
 
 Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.

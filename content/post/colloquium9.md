@@ -29,6 +29,11 @@ The speaker currently works at Massachusetts Institute of Technology, USA. He ac
 An utterance is split into two components, the propositional component and the expressive component. The propositional component, which is in the C-system, contains all the elements that contribute to the proposition and its truth-value. The expressive component is dedicated to the performance of speech acts. In this talk, I will explore the syntax of the expressive component. Extending the work of Krifka (2014, 2015, 2019, 2020), I will propose that the expressive component consists of the Speaker-Hearer Phrase at the top, followed by the Commitment Phrase, which in turn selects the C-system. I will give evidence for this structure by drawing data from a variety of languages, especially Basque, Japanese, and Romanian, with reference also to the language of autistic children. This talk is based on the manuscript, "Syntax in the Treetops" (Miyagawa, 2020).
 <br/><br/>
 
+### Slides:
+
+[Link to the presentation file](/materials/colloquium9_material.pdf)
+[Reference](/materials/colloquium9_reference.pdf)
+
 ### ZOOM Link:
 
 Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
