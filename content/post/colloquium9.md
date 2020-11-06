@@ -31,7 +31,7 @@ An utterance is split into two components, the propositional component and the e
 
 ### Slides:
 
-[Link to the presentation file](/materials/colloquium9_material.pdf)
+[Link to the presentation file](/materials/colloquium9_material.pptx)
 [Reference](/materials/colloquium9_reference.pdf)
 
 ### ZOOM Link:
