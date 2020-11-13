@@ -27,6 +27,6 @@ description: "This is the total schedule for colloquia"
 | 9   | 11/6(Fri.)  | 9:30  | Shigeru Miyagawa (MIT) <br/> &nbsp;&nbsp; Syntacticization of Discourse — Speaker-Hearer Phrase and Commitment Phrase [**\[Detail\]**]({{< ref "colloquium9.md" >}})                                        | Online  |
 | 10  | 11/13(Fri.) | 10:00 | Hayeun Jang (SNU) <br/> &nbsp;&nbsp; From the tongue musculature to the phonological typology: a case study of coronal palatalization [**\[Detail\]**]({{< ref "colloquium10.md" >}})                       | Online  |
 | 11  | 11/20(Fri.) | 18:00 | Ocke-Schwen Bohn (Aarhus University) <br/> &nbsp;&nbsp; Do cross-language phonetic relationships provide a full account of L2 speech learning problems? [**\[Detail\]**]({{< ref "colloquium11.md" >}})     | Online  |
-| 12  | 11/27(Fri.) | 9:00  | Songhee Kim (Medical College of Wisconsin)                                                                                                                                                                  | Offline |
+| 12  | 12/4(Fri.)  | 10:00 | Songhee Kim (Medical College of Wisconsin)                                                                                                                                                                  | Offline |
 
 <a class=intro-link href="http://hosting01.snu.ac.kr/~linguist/?page_id=1336">List of past colloquium events at SNU Ling.</a>
