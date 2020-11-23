@@ -3,25 +3,28 @@ slug: "colloquium4"
 title: "Colloquium 4 (18th September, 10AM): John Beavers (University of Texas, Austin)"
 date: 2020-09-04T12:53:06+09:00
 draft: false
-categories: ['Colloquium']
-tags: ['Semantics', 'Typology']
+categories: ["Colloquium"]
+tags: ["Semantics", "Typology"]
 image: "uploads/colloquium_cover.jpg"
 description: "Event Structures and The Semantic Typology of Verbal Roots Across Languages by John Beavers"
 ---
 
 ## Event Structures and The Semantic Typology of Verbal Roots Across Languages
-***
 
-The fourth colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Event Structures and The Semantic Typology of Verbal Roots Across Languages" by John Beavers. 
+---
+
+The fourth colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Event Structures and The Semantic Typology of Verbal Roots Across Languages" by John Beavers.
 
 ### Speaker: <a class=intro-link href="https://liberalarts.utexas.edu/linguistics/faculty/profile.php?eid=jbeavers">John Beavers</a>
+
 <br/>
 The speaker currently works at University of Texas at Austin, USA. He acquired his PhD in Linguistics from Stanford University in 2006.
 <br/><br/>
 
 ![ ](/profiles/John_Beavers_image.jpg#floatleft)
 
-### Abstract: 
+### Abstract:
+
 <br/>
 The central question in the study of verbal meaning are what the basic component's of a verb's meaning are and how they compose together into more complex meanings in ways that make predictions about possible and impossible verbs. Event structural theories have been arguably the dominant approach to the study of verb meaning over the last 50 years. On such approaches a verb's meaning is assumed to decompose into an event template capturing the verb's broad temporal and causal contours that groups verbs into semantically unified classes, and an idiosyncratic semantic root naming specific actions and states for a given verb within a class. A common assumption is that there is a division of labor in the grammatical properties of templates vs. roots: event templates largely determine the verb's grammatical properties (e.g. its argument structure and derivational morphology) while the root mainly just figures into its idiosyncratic form. Many event structural theories also assume a similar bifurcation in the meanings contributed by roots and templates (Arad 2005, Embick 2009): broad eventive lexical entailments are only introduced by templates, never roots. Since event templates are the primary semantic correlates of a verb's grammatical properties, semantic bifurcation makes strong predictions about the correlation of a verb's broad temporal and causal semantics to its syntax and morphology.
 <br><br/>
@@ -29,9 +32,11 @@ In this talk I argue against semantic bifurcation in verbal meanings, focusing o
 <br/><br/>
 
 ### Slides:
+
 [Link to the handout file](/materials/colloquium4_material.pdf)
 
-* This lecture will be performed based on the handout(without slide presentation). Make sure the handout is ready before partipating in this event.
+- This lecture will be performed based on the handout(without slide presentation). Make sure the handout is ready before partipating in this event.
 
 ### ZOOM Link:
-Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
+
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave 1) your full name, 2) email, 3) name of the event you want to participate, and 4) basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website..

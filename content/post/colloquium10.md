@@ -1,7 +1,7 @@
 ---
 slug: "colloquium10"
 title: "Colloquium 10 (13th November, 10AM): Hayeun Jang (SNU)"
-date: 2020-10-26T23:15:57+09:00
+date: 2020-10-30T23:15:57+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Phonetics", "Phonology"]
@@ -33,4 +33,4 @@ I argue that speakers’ phonetic knowledge of contextual coarticulatory effects
 
 ### ZOOM Link:
 
-Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave your full name, email, and basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
+Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave 1) your full name, 2) email, 3) name of the event you want to participate, and 4) basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website..
