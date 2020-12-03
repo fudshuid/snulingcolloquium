@@ -31,7 +31,7 @@ We introduce an expected value-based theory of linguistic modality that makes re
 
 ### Slides:
 
-[Link to the presentation file](/materials/colloquium2_material.pdf)
+[Link to the slides](/materials/colloquium2_material.pdf)
 
 ### ZOOM Link:
 

@@ -33,7 +33,7 @@ In this talk I argue against semantic bifurcation in verbal meanings, focusing o
 
 ### Slides:
 
-[Link to the handout file](/materials/colloquium4_material.pdf)
+[Link to the handout](/materials/colloquium4_material.pdf)
 
 - This lecture will be performed based on the handout(without slide presentation). Make sure the handout is ready before partipating in this event.
 

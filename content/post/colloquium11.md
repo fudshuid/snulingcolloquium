@@ -29,6 +29,11 @@ The speaker currently works at Aarhus University, Denmark. He is current associa
 Current models of second language speech learning agree that production and perception difficulty is primarily due to the cross-language phonetic relationship of the sounds of the nonnative to the native language. This lecture will first provide new findings which support this basic assumption of, e.g., Bests’ Perceptual Assimilation Model (Best 12995, Best & Tyler 2007) and Flege’s Speech Learning Model (Flege 1995, Flege & Bohn 2021), and will then present some clear evidence showing that second language learners may be (partly) immune to cross-language phonetic relationships either because of universal perceptual biases or because they are influenced by “higher-order” characteristics of the native and/or the nonnative language.
 <br/><br/>
 
+### Slides:
+
+[Link to the slides](/materials/Bohn-SNU-2020/SNU_4_Cross-language_phonetic_relationships_account_for_most,_but_not_all_speech_learning_problems_hdt.pdf)
+[References](/materials/Bohn-SNU-2020/References_Bohn_lectures_SNU_November_2020.pdf)
+
 ### ZOOM Link:
 
 Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave 1) your full name, 2) email, 3) name of the event you want to participate, and 4) basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.

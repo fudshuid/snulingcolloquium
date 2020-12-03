@@ -31,7 +31,7 @@ Expressions such as pronouns, definite descriptions, and demonstratives can all 
 
 ### Slides:
 
-[Link to the presentation file](/materials/colloquium6_material.pdf)
+[Link to the slides](/materials/colloquium6_material.pdf)
 
 ### ZOOM Link:
 

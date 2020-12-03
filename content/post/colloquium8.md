@@ -31,7 +31,7 @@ Over the last century, evidence has accumulated suggesting that language structu
 
 ### Slides:
 
-[Link to the presentation file](/materials/colloquium8_material.pdf)
+[Link to the slides](/materials/colloquium8_material.pdf)
 
 ### ZOOM Link:
 

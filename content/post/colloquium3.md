@@ -31,7 +31,7 @@ The speaker currently works at Seoul National Universtiy, Seoul. He acquired his
 
 ### Slides:
 
-[Link to the presentation file](/materials/colloquium3_material.pdf)
+[Link to the slides](/materials/colloquium3_material.pdf)
 
 ### ZOOM Link:
 
