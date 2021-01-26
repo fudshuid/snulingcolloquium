@@ -35,7 +35,7 @@ The presenters of the following talks have gladly consented to share the content
 
 2. **Eye-tracking Workshop 1** by Jeong-Ah Shin (Dongguk University)
 
-The second workshop on Eye-tracking methodology presented by Jeong-Ah Shin from Dongguk university was entitled "Eye-tracking in Language Research"
+The first workshop on Eye-tracksng methodology presented by Jeong-Ah Shin from Dongguk university was entitled "Eye-tracking in Language Research"
 
 [Link to the material](/materials/SWELL-2020/Jeong-Ah_Shin_Eyetracking_Intro.pdf)
 
