@@ -6,7 +6,7 @@ draft: false
 categories: ["Seminar"]
 tags: []
 image: "uploads/swell-2020-closing.jpg"
-description: "SWELL(SNU Workshop on Empirical and Laboratory Linguistics) held at SNU"
+description: "SWELL (SNU Workshop on Empirical and Laboratory Linguistics) held at SNU"
 ---
 
 ## SWELL (SNU Workshop on Empirical and Laboratory Linguistics) held at SNU
