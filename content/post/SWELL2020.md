@@ -41,7 +41,7 @@ The second workshop on Eye-tracking methodology presented by Jeong-Ah Shin from 
 
 ---
 
-3. **Past Tense Morphology and the Choice of Connectives in Korean Counterfactual Conditionals: An Experimental Approach** by Jiyoung Kim (SNU)
+3. **Past Tense Morphology and the Choice of Connectives in Korean Counterfactual Conditionals: An Experimental Approach** by Jiyeong Kim (SNU)
 
 Abstract:
 
