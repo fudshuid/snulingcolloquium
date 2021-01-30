@@ -53,13 +53,19 @@ Abstract:
 
 ---
 
-4. **Island effects and scrambling: an on-line self-paced reading study** by Heejeong Ko (SNU) & Kitaek Kim (SNU)
+4. **Modal Semantics of Korean Bouletic Verbs** by Mingyeong Choi (SNU)
+
+[Link to the material](/materials/SWELL-2020/Mingyeong_Choi_Korean-bouletic-verbs.pdf)
+
+---
+
+5. **Island effects and scrambling: an on-line self-paced reading study** by Heejeong Ko (SNU) & Kitaek Kim (SNU)
 
 [Link to the material](/materials/SWELL-2020/Ko_Kim_Island-effects-and-scrambling_abstract.pdf)
 
 ---
 
-5. **The Processing of Korean Relative Clauses** by Soyeon Kang (SNU), Gyuhwan Lee (SNU) & Sunwoo Jeong (SNU)
+6. **The Processing of Korean Relative Clauses** by Soyeon Kang (SNU), Gyuhwan Lee (SNU) & Sunwoo Jeong (SNU)
 
 [Link to the material](/materials/SWELL-2020/Kang_Lee_Jeong_Korean-RC.pdf)
 
@@ -69,13 +75,19 @@ Abstract:
 
 ---
 
-1. **Glottal stop and high tone in Korean** by Hayeun Jang (SNU)
+1. **Exploring the relation between alternation and phonotactics of Sundanese liquid assimilation and dissimilation** by Yoona Yee
+
+[Link to the material](/materials/SWELL-2020/Yoona_Yee_Sundanese_201223.pdf)
+
+---
+
+2. **Glottal stop and high tone in Korean** by Hayeun Jang (SNU)
 
 [Link to the material](/materials/SWELL-2020/Hayeun_Jang_glottal-stop-and-high-tone.pdf)
 
 ---
 
-2. **Eye-tracking Workshop 2** by Jeong-Ah Shin (Dongguk University)
+3. **Eye-tracking Workshop 2** by Jeong-Ah Shin (Dongguk University)
 
 The second workshop on Eye-tracking methodology presented by Jeong-Ah Shin from Dongguk university was entitled "Shortcuts to Eye-tracking Experiments"
 
@@ -83,7 +95,27 @@ The second workshop on Eye-tracking methodology presented by Jeong-Ah Shin from 
 
 ---
 
-3. **How tight is the link between alternations and phonotactics?** by Jongho Jun (SNU), Hanyoung Byun (SNU), Seon Park (SNU) & Yoona Yee (SNU)
+4. **The prosodic effects on the fronting of alveolar consonants in Korean** by Mira Oh (Chonnam University) & Soohyun Kwon (SNU)
+
+[Link to the material](/materials/SWELL-2020/Oh_Kwon_fronting-of-alveolar-consonants.pdf)
+
+---
+
+5. **Voice quality research using the Electroglottography (EGG)** by Seunghun J. Lee (ICU / University of Venda)
+
+[Link to the material](/materials/SWELL-2020/Seunghun_Lee_VoiceQuality-EGG_SWELL.pdf)
+
+---
+
+6. **Combining acoustic and articulatory findings in phonological analysis** by James Whang (SNU)
+
+Abstract:
+
+> This talk proposes an ultrasound experiment that is designed to collect high-resolution articulatory and acoustic data simultaneously, starting with Japanese high vowel devoicing as a test case. There is an ongoing debate on the phonetic/phonological status of devoiced vowels in Japanese, and a survey of previous studies suggests that the disagreement stems in large part from methodological differences; studies that argue that Japanese devoiced vowels are deleted rely primarily on acoustic data while studies that argue against deletion rely on articulatory data. Whang, Shaw, and Kawahara (2020) analyzed the acoustic recordings accompanying the EMA study by Shaw and Kawahara (2018b) and found that although Japanese speakers sometimes fully retain the lingual gesture for devoiced vowels, no trace of the vowel is detectable in the acoustic signal after coronal consonants. In other words, Japanese high vowels are articulatory devoiced but acoustically deleted in certain contexts. Such results reveal a disconnect between articulatory and acoustic findings and a need for experiments that analyze both data types simultaneously. This talk proposes an ultrasound experiment due (i) to its low level of invasiveness that allows for more naturalistic speech and (ii) to the relative silence of the machinery that allows for clean, time-aligned acoustic recordings. By combining articulatory and acoustic methods, the experiment will give a more holistic view of Japanese high vowels, but more importantly, extending this approach to other phonological phenomena is expected to provide deeper insight into the link between production (articulatory) and perception (acoustic) grammars.
+
+---
+
+7. **How tight is the link between alternations and phonotactics?** by Jongho Jun (SNU), Hanyoung Byun (SNU), Seon Park (SNU) & Yoona Yee (SNU)
 
 Abstract:
 

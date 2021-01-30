@@ -31,8 +31,9 @@ An utterance is split into two components, the propositional component and the e
 
 ### Slides:
 
-[Link to the slides](/materials/colloquium9_material.pptx)
-[References](/materials/colloquium9_reference.pdf)
+[Link to the slides](/materials/colloquium9_material.pptx) / [References](/materials/colloquium9_reference.pdf)
+
+> This material is drawn from: Shigeru Miyagawa, Syntax in the Treetops. Linguistic Inquiry Monograph, MIT Press (2021, in press)
 
 ### ZOOM Link:
 
