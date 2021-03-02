@@ -1,5 +1,5 @@
 ---
-slug: "colloquium3"
+slug: "2020_F_colloquium3"
 title: "Colloquium 3 (11th September, 10AM): Hyunseop Kim (SNU)"
 date: 2020-08-28T12:53:06+09:00
 draft: false

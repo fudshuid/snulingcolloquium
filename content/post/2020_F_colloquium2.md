@@ -1,5 +1,5 @@
 ---
-slug: "colloquium2"
+slug: "2020_F_colloquium2"
 title: "Colloquium 2 (31st August, 4PM): Woojin Chung (Institut Jean Nicod)"
 date: 2020-08-17T12:53:06+09:00
 draft: false

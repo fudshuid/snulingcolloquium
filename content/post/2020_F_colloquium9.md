@@ -1,5 +1,5 @@
 ---
-slug: "colloquium9"
+slug: "2020_F_colloquium9"
 title: "Colloquium 9 (6th November, 9:30AM): Shigeru Miyagawa (MIT)"
 date: 2020-10-23T00:00:00+09:00
 draft: false

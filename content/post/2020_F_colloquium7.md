@@ -1,5 +1,5 @@
 ---
-slug: "colloquium7"
+slug: "2020_F_colloquium7"
 title: "Colloquium 7 (16th October, 5PM): Michael Ashby (UCL)"
 date: 2020-10-02T23:15:57+09:00
 draft: false

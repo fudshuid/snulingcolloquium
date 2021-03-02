@@ -1,5 +1,5 @@
 ---
-slug: "colloquium5"
+slug: "2020_F_colloquium5"
 title: "Colloquium 5 (21st September, 10AM): Suzy Ahn (UCLA/University of Ottawa)"
 date: 2020-09-07T23:15:57+09:00
 draft: false

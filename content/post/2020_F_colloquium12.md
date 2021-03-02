@@ -1,5 +1,5 @@
 ---
-slug: "colloquium12"
+slug: "2020_F_colloquium12"
 title: "Colloquium 12 (4th December, 10AM): Songhee Kim (Medical College of Wisconsin)"
 date: 2020-11-20T05:00:00+09:00
 draft: false

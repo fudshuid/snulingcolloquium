@@ -1,5 +1,5 @@
 ---
-slug: "colloquium1"
+slug: "2020_F_colloquium1"
 title: "Colloquium 1 (13th August, 10AM): Alvin Grissom II (Haverford College)"
 date: 2020-08-06T12:53:06+09:00
 draft: false

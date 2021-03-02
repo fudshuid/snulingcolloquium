@@ -1,5 +1,5 @@
 ---
-slug: "seminar4"
+slug: "2020_F_seminar4"
 title: "Seminar 4 (20th, 23th & 27th October, 5PM): Michael Ashby (UCL)"
 date: 2020-10-06T01:34:57+09:00
 draft: false

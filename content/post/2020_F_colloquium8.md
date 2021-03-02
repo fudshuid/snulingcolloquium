@@ -1,5 +1,5 @@
 ---
-slug: "colloquium8"
+slug: "2020_F_colloquium8"
 title: "Colloquium 8 (23th October, 9AM): Andy Wedel (University of Arizona)"
 date: 2020-10-09T23:15:57+09:00
 draft: false

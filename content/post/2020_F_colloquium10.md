@@ -1,5 +1,5 @@
 ---
-slug: "colloquium10"
+slug: "2020_F_colloquium10"
 title: "Colloquium 10 (13th November, 10AM): Hayeun Jang (SNU)"
 date: 2020-10-30T23:15:57+09:00
 draft: false

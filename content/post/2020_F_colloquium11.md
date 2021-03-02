@@ -1,5 +1,5 @@
 ---
-slug: "colloquium11"
+slug: "2020_F_colloquium11"
 title: "Colloquium 11 (20th November, 6PM): Ocke-Schwen Bohn (Aarhus University)"
 date: 2020-11-04T05:00:00+09:00
 draft: false

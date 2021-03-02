@@ -1,5 +1,5 @@
 ---
-slug: "colloquium6"
+slug: "2020_F_colloquium6"
 title: "Colloquium 6 (16th October, 9:30AM): Dorothy Ahn (Rutgers University)"
 date: 2020-10-02T23:15:57+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-slug: "colloquium4"
+slug: "2020_F_colloquium4"
 title: "Colloquium 4 (18th September, 10AM): John Beavers (University of Texas, Austin)"
 date: 2020-09-04T12:53:06+09:00
 draft: false
