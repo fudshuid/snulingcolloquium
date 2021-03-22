@@ -1,7 +1,7 @@
 ---
 slug: "2021_S_colloquium4"
 title: "Colloquium 4 (23rd April, 10AM): Anna Szabolcsi (NYU)"
-date: 2021-03-02T05:00:00+09:00
+date: 2021-03-21T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Semantics"]

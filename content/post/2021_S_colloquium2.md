@@ -1,7 +1,7 @@
 ---
 slug: "2021_S_colloquium2"
 title: "Colloquium 2 (26th March, 5PM): Floris Roelofsen (ILLC, University of Amsterdam)"
-date: 2021-03-01T05:00:00+09:00
+date: 2021-03-12T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Semantics"]
@@ -13,7 +13,7 @@ description: "Quexistentials and focus by Floris Roelofsen"
 
 ---
 
-The second colloquium held at the Department of Linguistics, SNU in Fall 2020 is "Quexistentials and focus" by Floris Roelofsen.
+The second colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Quexistentials and focus" by Floris Roelofsen.
 
 ### Speaker: <a class=intro-link href="https://www.florisroelofsen.com/">Floris Roelofsen</a>
 
