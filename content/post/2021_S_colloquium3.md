@@ -1,6 +1,6 @@
 ---
 slug: "2021_S_colloquium3"
-title: "Colloquium 3 (16th April, 10AM): Gary Geunbae Lee (POSTECH)"
+title: "Colloquium 3 (16th April, 5PM): Gary Geunbae Lee (POSTECH)"
 date: 2021-03-20T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
