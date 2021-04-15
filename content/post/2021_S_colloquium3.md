@@ -38,6 +38,10 @@ Deep learning 구조를 이용해서 end-to-end spoken dialog system 개발 연�
 
 <br/><br/>
 
+### Slides:
+
+[Link to the slides](/materials/snu_chatbot.pdf)
+
 ### ZOOM Link:
 
 Due to cyber security concerns, we do not share ZOOM links in the public domain. However, if you want to partipate in this event, please leave 1) your full name, 2) email, 3) name of the event you want to participate, and 4) basic information about yourself via [**contact**]({{< ref "/contact" >}}) menu of this website.
