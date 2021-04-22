@@ -37,7 +37,10 @@ According to the classical description of obviation, the subject of a subjunctiv
 ```
 
 Inspired by Ruwet (1984/1991) and Farkas (1988, 1992), I present data from Hungarian where obviation in certain subjunctives is plainly lifted, and data where obviation occurs in indicatives. I argue that obviation is not the result of competition with another construction, and point to promising accounts in terms of a clash in semantics or pragmatics.
-<br/><br/>
+
+### Slides:
+
+[Link to the slides](/materials/Szabolcsi_slides.pdf)>
 
 ### ZOOM Link:
 

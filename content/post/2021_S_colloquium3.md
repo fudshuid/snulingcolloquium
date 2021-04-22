@@ -30,13 +30,12 @@ The speaker currently works at POSTECH (Pohang University of Science and Technol
 Deep learning 구조를 이용해서 end-to-end spoken dialog system 개발 연구에 대해 소개하고 장단점을 논의한다.
 
 구체적으로 아래 내용에 대해 설명한다.
+
 - 음성대화 시스템 응용
 - 음성언어 이해 기술
-- 음성 대화 관리 기술 
-- Deep learning 자연어 처리 기술 
+- 음성 대화 관리 기술
+- Deep learning 자연어 처리 기술
 - End-to-end 음성대화 시스템 구조
-
-<br/><br/>
 
 ### Slides:
 
