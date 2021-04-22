@@ -40,7 +40,7 @@ Inspired by Ruwet (1984/1991) and Farkas (1988, 1992), I present data from Hunga
 
 ### Slides:
 
-[Link to the slides](/materials/Szabolcsi_slides.pdf)>
+[Link to the slides](/materials/Szabolcsi_slides.pdf)
 
 ### ZOOM Link:
 
