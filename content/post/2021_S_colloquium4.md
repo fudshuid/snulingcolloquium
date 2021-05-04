@@ -1,46 +1,47 @@
 ---
 slug: "2021_S_colloquium4"
-title: "Colloquium 4 (23rd April, 10AM): Anna Szabolcsi (NYU)"
-date: 2021-03-21T05:00:00+09:00
+title: "Colloquium 4 (7th May, 4PM): Floris Roelofsen (ILLC, University of Amsterdam)"
+date: 2021-04-23T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Semantics"]
 image: "uploads/colloquium_cover.jpg"
-description: "Obviation: What is its scope, and is it due to competition? by Anna Szabolcsi"
+description: "Quexistentials and focus by Floris Roelofsen"
 ---
 
-## Obviation: What is its scope, and is it due to competition?
+## Quexistentials and focus (joint work with Sabine Iatridou and Kees Hengeveld)
 
 ---
 
-The fourth colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Obviation: What is its scope, and is it due to competition?" by Anna Szabolcsi.
+The fourth colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Quexistentials and focus" by Floris Roelofsen.
 
-### Speaker: <a class=intro-link href="https://as.nyu.edu/faculty/anna-szabolcsi.html">Anna Szabolcsi</a>
+### Speaker: <a class=intro-link href="https://www.florisroelofsen.com/">Floris Roelofsen</a>
 
 <br/>
-The speaker currently works at New York University, USA. She acquired her PhD in Linguistics from Hungarian Academy of Sciences in 1987.
+The speaker currently works at Institute for Logic, Language and Computation, Univeristy of Amsterdam, the Netherlands. He acquired his PhD in Linguistics from University of Amsterdam in 2008.
 <br/><br/>
 
-![ ](/profiles/Anna_Szabolcsi_image.jpg#floatleft)
+![ ](/profiles/Floris_Roelofsen_image.jpg#floatleft)
 
 ### Abstract:
 
 <br/>
-According to the classical description of obviation, the subject of a subjunctive is disjoint in reference from the attitude-holder subject of the immediately higher clause.
+Many languages have words which can be interpreted either as question words or as existentials. We call such words quexistentials. An example is the Dutch word wat, which can mean either what or something, exemplified in (1) and (2).
 
 ```
- *  Je    veux     que      je     parte.
+(1) Wie heeft hem WAT gegeven?
+    Who has him QUEX given
+    `Who has given him what?'
 
-    I     want     that     I      leave-subj
-
-    `I want for me to leave’
+(2) Wie heeft hem wat gegeven?
+    Who has him quex given
+    `Who has given him something?'
 ```
 
-Inspired by Ruwet (1984/1991) and Farkas (1988, 1992), I present data from Hungarian where obviation in certain subjunctives is plainly lifted, and data where obviation occurs in indicatives. I argue that obviation is not the result of competition with another construction, and point to promising accounts in terms of a clash in semantics or pragmatics.
+Other languages that have quexistentials include Korean, Russian, Mandarin, and many others. Haida (2007) and other authors have suggested that focus plays an important role in the interpretation of quexistentials: namely, quexistentials are (i) always focused on their interrogative use, and (ii) never focused on their existential use. For instance, in (1), wat is focused and must therefore be interpreted as a question word, while in (2) it is not focused and must therefore be interpreted as an existential.
 
-### Slides:
-
-[Link to the slides](/materials/Szabolcsi_slides.pdf)
+We argue that the first part of Haida's generalization is correct but the second one is not. We show that quexistentials can in fact be focused on their existential use, at least in Dutch. We suggest that the first part of the generalization, i.e., the fact that quexistentials are always focused on their interrogative use, should be seen as a particular instance of a more general fact, namely that interrogative words (quexistential or not) are always marked for contrast. We propose to account for this fact by generalizing the common view on contrastive focus in a way that incorporates both an external and an internal notion of contrast.
+<br/><br/>
 
 ### ZOOM Link:
 

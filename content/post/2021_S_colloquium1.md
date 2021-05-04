@@ -1,7 +1,7 @@
 ---
 slug: "2021_S_colloquium1"
 title: "Colloquium 1 (12th March, 10AM): Amanda Rysling (UC Santa Cruz)"
-date: 2021-02-27T05:00:00+09:00
+date: 2021-02-26T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
 tags: ["Phonetics", "Phonlogy"]

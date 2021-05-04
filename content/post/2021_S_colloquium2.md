@@ -1,47 +1,45 @@
 ---
 slug: "2021_S_colloquium2"
-title: "Colloquium 2 (26th March, 5PM): Floris Roelofsen (ILLC, University of Amsterdam)"
-date: 2021-03-12T05:00:00+09:00
+title: "Colloquium 2 (16th April, 5PM): Gary Geunbae Lee (POSTECH)"
+date: 2021-04-02T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
-tags: ["Semantics"]
+tags: ["Computer Linguistics"]
 image: "uploads/colloquium_cover.jpg"
-description: "Quexistentials and focus by Floris Roelofsen"
+description: "Deep-learning-based spoken dialog systems by Gary Geunbae Lee"
 ---
 
-## Quexistentials and focus (joint work with Sabine Iatridou and Kees Hengeveld)
+## Deep-learning-based spoken dialog systems
 
 ---
 
-The second colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Quexistentials and focus" by Floris Roelofsen.
+The second colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Deep-learning-based spoken dialog systems" by Gary Geunbae Lee.
 
-### Speaker: <a class=intro-link href="https://www.florisroelofsen.com/">Floris Roelofsen</a>
+### Speaker: <a class=intro-link href="http://nlp.postech.ac.kr/~gblee/">Gary Geunbae Lee</a>
 
 <br/>
-The speaker currently works at Institute for Logic, Language and Computation, Univeristy of Amsterdam, the Netherlands. He acquired his PhD in Linguistics from University of Amsterdam in 2008.
+The speaker currently works at POSTECH (Pohang University of Science and Technology). He acquired his PhD in Computer Science from UCLA in 1991.
 <br/><br/>
 
-![ ](/profiles/Floris_Roelofsen_image.jpg#floatleft)
+![ ](/profiles/Geunbae_Lee_image.jpg#floatleft)
 
 ### Abstract:
 
 <br/>
-Many languages have words which can be interpreted either as question words or as existentials. We call such words quexistentials. An example is the Dutch word wat, which can mean either what or something, exemplified in (1) and (2).
+본 발표는 spoken dialog system의 여러 응용과 시스템 구성에 대해 설명한후 deep learning 자연어처리에 대해 논의한다.
+Deep learning 구조를 이용해서 end-to-end spoken dialog system 개발 연구에 대해 소개하고 장단점을 논의한다.
 
-```
-(1) Wie heeft hem WAT gegeven?
-    Who has him QUEX given
-    `Who has given him what?'
+구체적으로 아래 내용에 대해 설명한다.
 
-(2) Wie heeft hem wat gegeven?
-    Who has him quex given
-    `Who has given him something?'
-```
+- 음성대화 시스템 응용
+- 음성언어 이해 기술
+- 음성 대화 관리 기술
+- Deep learning 자연어 처리 기술
+- End-to-end 음성대화 시스템 구조
 
-Other languages that have quexistentials include Korean, Russian, Mandarin, and many others. Haida (2007) and other authors have suggested that focus plays an important role in the interpretation of quexistentials: namely, quexistentials are (i) always focused on their interrogative use, and (ii) never focused on their existential use. For instance, in (1), wat is focused and must therefore be interpreted as a question word, while in (2) it is not focused and must therefore be interpreted as an existential.
+### Slides:
 
-We argue that the first part of Haida's generalization is correct but the second one is not. We show that quexistentials can in fact be focused on their existential use, at least in Dutch. We suggest that the first part of the generalization, i.e., the fact that quexistentials are always focused on their interrogative use, should be seen as a particular instance of a more general fact, namely that interrogative words (quexistential or not) are always marked for contrast. We propose to account for this fact by generalizing the common view on contrastive focus in a way that incorporates both an external and an internal notion of contrast.
-<br/><br/>
+[Link to the slides](/materials/snu_chatbot.pdf)
 
 ### ZOOM Link:
 

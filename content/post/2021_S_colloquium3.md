@@ -1,45 +1,46 @@
 ---
 slug: "2021_S_colloquium3"
-title: "Colloquium 3 (16th April, 5PM): Gary Geunbae Lee (POSTECH)"
-date: 2021-03-20T05:00:00+09:00
+title: "Colloquium 3 (23rd April, 10AM): Anna Szabolcsi (NYU)"
+date: 2021-04-09T05:00:00+09:00
 draft: false
 categories: ["Colloquium"]
-tags: ["Computer Linguistics"]
+tags: ["Semantics"]
 image: "uploads/colloquium_cover.jpg"
-description: "Deep-learning-based spoken dialog systems by Gary Geunbae Lee"
+description: "Obviation: What is its scope, and is it due to competition? by Anna Szabolcsi"
 ---
 
-## Deep-learning-based spoken dialog systems
+## Obviation: What is its scope, and is it due to competition?
 
 ---
 
-The third colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Deep-learning-based spoken dialog systems" by Gary Geunbae Lee.
+The third colloquium held at the Department of Linguistics, SNU in Spring 2021 is "Obviation: What is its scope, and is it due to competition?" by Anna Szabolcsi.
 
-### Speaker: <a class=intro-link href="http://nlp.postech.ac.kr/~gblee/">Gary Geunbae Lee</a>
+### Speaker: <a class=intro-link href="https://as.nyu.edu/faculty/anna-szabolcsi.html">Anna Szabolcsi</a>
 
 <br/>
-The speaker currently works at POSTECH (Pohang University of Science and Technology). He acquired his PhD in Computer Science from UCLA in 1991.
+The speaker currently works at New York University, USA. She acquired her PhD in Linguistics from Hungarian Academy of Sciences in 1987.
 <br/><br/>
 
-![ ](/profiles/Geunbae_Lee_image.jpg#floatleft)
+![ ](/profiles/Anna_Szabolcsi_image.jpg#floatleft)
 
 ### Abstract:
 
 <br/>
-본 발표는 spoken dialog system의 여러 응용과 시스템 구성에 대해 설명한후 deep learning 자연어처리에 대해 논의한다.
-Deep learning 구조를 이용해서 end-to-end spoken dialog system 개발 연구에 대해 소개하고 장단점을 논의한다.
+According to the classical description of obviation, the subject of a subjunctive is disjoint in reference from the attitude-holder subject of the immediately higher clause.
 
-구체적으로 아래 내용에 대해 설명한다.
+```
+ *  Je    veux     que      je     parte.
 
-- 음성대화 시스템 응용
-- 음성언어 이해 기술
-- 음성 대화 관리 기술
-- Deep learning 자연어 처리 기술
-- End-to-end 음성대화 시스템 구조
+    I     want     that     I      leave-subj
+
+    `I want for me to leave’
+```
+
+Inspired by Ruwet (1984/1991) and Farkas (1988, 1992), I present data from Hungarian where obviation in certain subjunctives is plainly lifted, and data where obviation occurs in indicatives. I argue that obviation is not the result of competition with another construction, and point to promising accounts in terms of a clash in semantics or pragmatics.
 
 ### Slides:
 
-[Link to the slides](/materials/snu_chatbot.pdf)
+[Link to the slides](/materials/Szabolcsi_slides.pdf)
 
 ### ZOOM Link:
 
