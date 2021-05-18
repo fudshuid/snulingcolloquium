@@ -18,7 +18,7 @@ The fifth colloquium held at the Department of Linguistics, SNU in Spring 2021 i
 ### Speaker: <a class=intro-link href="http://www.mathcs.emory.edu/~choi/home.html">Jinho Choi</a>
 
 <br/>
-The speaker currently works at Emory University, USA. He acquired his PhD in Computer Science and Cognitive Science from the University of Colorado Boulder in 2012.
+The speaker currently works at Emory University, USA. He acquired his PhD in Computer Science and Cognitive Science from University of Colorado Boulder in 2012.
 <br/><br/>
 
 ![ ](/profiles/jinho_choi_image.jpg#floatleft)
